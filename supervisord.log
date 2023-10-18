@@ -1,0 +1,416 @@
+2021-04-12 19:57:18,648 CRIT Supervisor running as root (no user in config file)
+2021-04-12 19:57:18,648 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-04-12 19:57:18,649 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-04-12 19:57:18,649 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-04-12 19:57:18,649 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-04-12 19:57:18,674 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-04-12 19:57:18,674 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-04-12 19:57:18,689 INFO RPC interface 'supervisor' initialized
+2021-04-12 19:57:18,695 INFO supervisord started with pid 23
+2021-04-12 19:57:19,700 INFO spawned: 'apached' with pid 26
+2021-04-12 19:57:19,727 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-04-14 21:30:34,133 CRIT Supervisor running as root (no user in config file)
+2021-04-14 21:30:34,148 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-04-14 21:30:34,149 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-04-14 21:30:34,150 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-04-14 21:30:34,151 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-04-14 21:30:34,152 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-04-14 21:30:34,153 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-04-14 21:30:34,994 INFO RPC interface 'supervisor' initialized
+2021-04-14 21:30:35,005 INFO supervisord started with pid 25
+2021-04-14 21:30:36,069 INFO spawned: 'apached' with pid 28
+2021-04-14 21:30:36,196 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-06-07 03:45:01,950 CRIT Supervisor running as root (no user in config file)
+2021-06-07 03:45:01,984 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-06-07 03:45:01,984 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-06-07 03:45:01,985 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-06-07 03:45:01,986 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-06-07 03:45:01,986 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-06-07 03:45:01,987 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-06-07 03:45:02,287 INFO RPC interface 'supervisor' initialized
+2021-06-07 03:45:02,292 INFO supervisord started with pid 25
+2021-06-07 03:45:03,319 INFO spawned: 'apached' with pid 28
+2021-06-07 03:45:03,578 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-06-10 00:41:02,271 CRIT Supervisor running as root (no user in config file)
+2021-06-10 00:41:02,317 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-06-10 00:41:02,317 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-06-10 00:41:02,317 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-06-10 00:41:02,318 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-06-10 00:41:02,318 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-06-10 00:41:02,318 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-06-10 00:41:02,326 INFO RPC interface 'supervisor' initialized
+2021-06-10 00:41:02,329 INFO supervisord started with pid 23
+2021-06-10 00:41:03,333 INFO spawned: 'apached' with pid 26
+2021-06-10 00:41:03,362 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-06-25 13:29:22,362 CRIT Supervisor running as root (no user in config file)
+2021-06-25 13:29:22,362 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-06-25 13:29:22,362 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-06-25 13:29:22,363 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-06-25 13:29:22,363 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-06-25 13:29:22,363 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-06-25 13:29:22,363 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-06-25 13:29:22,676 INFO RPC interface 'supervisor' initialized
+2021-06-25 13:29:22,683 INFO supervisord started with pid 23
+2021-06-25 13:29:23,687 INFO spawned: 'apached' with pid 26
+2021-06-25 13:29:23,739 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-06-28 16:42:22,542 CRIT Supervisor running as root (no user in config file)
+2021-06-28 16:42:22,543 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-06-28 16:42:22,544 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-06-28 16:42:22,544 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-06-28 16:42:22,544 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-06-28 16:42:22,545 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-06-28 16:42:22,545 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-06-28 16:42:22,764 INFO RPC interface 'supervisor' initialized
+2021-06-28 16:42:22,767 INFO supervisord started with pid 26
+2021-06-28 16:42:23,868 INFO spawned: 'apached' with pid 29
+2021-06-28 16:42:24,231 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-07-01 18:17:24,366 CRIT Supervisor running as root (no user in config file)
+2021-07-01 18:17:24,367 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-07-01 18:17:24,367 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-07-01 18:17:24,367 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-07-01 18:17:24,368 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-07-01 18:17:24,368 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-07-01 18:17:24,368 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-07-01 18:17:24,793 INFO RPC interface 'supervisor' initialized
+2021-07-01 18:17:24,805 INFO supervisord started with pid 22
+2021-07-01 18:17:25,808 INFO spawned: 'apached' with pid 25
+2021-07-01 18:17:25,840 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-07-01 19:23:36,239 CRIT Supervisor running as root (no user in config file)
+2021-07-01 19:23:36,239 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-07-01 19:23:36,239 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-07-01 19:23:36,240 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-07-01 19:23:36,240 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-07-01 19:23:36,240 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-07-01 19:23:36,241 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-07-01 19:23:36,249 INFO RPC interface 'supervisor' initialized
+2021-07-01 19:23:36,253 INFO supervisord started with pid 23
+2021-07-01 19:23:37,260 INFO spawned: 'apached' with pid 26
+2021-07-01 19:23:37,289 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-07-08 05:18:39,621 CRIT Supervisor running as root (no user in config file)
+2021-07-08 05:18:42,124 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-07-08 05:18:42,124 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-07-08 05:18:42,124 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-07-08 05:18:42,125 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-07-08 05:18:42,125 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-07-08 05:18:42,125 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-07-08 05:18:45,608 INFO RPC interface 'supervisor' initialized
+2021-07-08 05:18:45,632 INFO supervisord started with pid 25
+2021-07-08 05:18:46,724 INFO spawned: 'apached' with pid 28
+2021-07-08 05:18:46,746 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-07-08 05:42:14,281 CRIT Supervisor running as root (no user in config file)
+2021-07-08 05:42:14,282 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-07-08 05:42:14,282 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-07-08 05:42:14,282 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-07-08 05:42:14,283 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-07-08 05:42:14,283 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-07-08 05:42:14,283 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-07-08 05:42:15,029 INFO RPC interface 'supervisor' initialized
+2021-07-08 05:42:15,770 INFO supervisord started with pid 23
+2021-07-08 05:42:17,061 INFO spawned: 'apached' with pid 26
+2021-07-08 05:42:17,338 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-07-09 19:11:06,467 CRIT Supervisor running as root (no user in config file)
+2021-07-09 19:11:06,485 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-07-09 19:11:06,485 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-07-09 19:11:06,485 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-07-09 19:11:06,486 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-07-09 19:11:06,486 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-07-09 19:11:06,486 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-07-09 19:11:06,495 INFO RPC interface 'supervisor' initialized
+2021-07-09 19:11:06,497 INFO supervisord started with pid 23
+2021-07-09 19:11:07,500 INFO spawned: 'apached' with pid 26
+2021-07-09 19:11:07,507 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-07-10 12:17:32,442 WARN received SIGTERM indicating exit request
+2021-07-10 12:17:32,443 INFO waiting for apached to die
+2021-07-10 12:17:32,550 INFO exited: apached (exit status 0; expected)
+2021-07-12 14:18:38,376 CRIT Supervisor running as root (no user in config file)
+2021-07-12 14:18:38,895 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-07-12 14:18:38,896 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-07-12 14:18:38,897 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-07-12 14:18:38,897 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-07-12 14:18:38,898 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-07-12 14:18:38,899 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-07-12 14:18:41,723 INFO RPC interface 'supervisor' initialized
+2021-07-12 14:18:41,962 INFO supervisord started with pid 25
+2021-07-12 14:18:43,019 INFO spawned: 'apached' with pid 28
+2021-07-12 14:18:44,023 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-07-13 19:54:53,891 CRIT Supervisor running as root (no user in config file)
+2021-07-13 19:54:54,128 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-07-13 19:54:54,128 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-07-13 19:54:54,128 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-07-13 19:54:54,129 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-07-13 19:54:54,129 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-07-13 19:54:54,130 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-07-13 19:54:54,141 INFO RPC interface 'supervisor' initialized
+2021-07-13 19:54:54,232 INFO supervisord started with pid 22
+2021-07-13 19:54:55,235 INFO spawned: 'apached' with pid 25
+2021-07-13 19:54:55,244 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-07-14 03:39:55,994 WARN received SIGTERM indicating exit request
+2021-07-14 03:39:56,000 INFO waiting for apached to die
+2021-07-14 03:39:56,045 INFO exited: apached (exit status 0; expected)
+2021-07-14 14:55:54,799 CRIT Supervisor running as root (no user in config file)
+2021-07-14 14:55:54,869 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-07-14 14:55:54,871 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-07-14 14:55:54,872 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-07-14 14:55:54,873 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-07-14 14:55:54,873 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-07-14 14:55:54,874 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-07-14 14:55:56,320 INFO RPC interface 'supervisor' initialized
+2021-07-14 14:55:56,332 INFO supervisord started with pid 26
+2021-07-14 14:55:57,402 INFO spawned: 'apached' with pid 29
+2021-07-14 14:55:58,208 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-07-14 19:38:18,105 CRIT Supervisor running as root (no user in config file)
+2021-07-14 19:38:18,170 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-07-14 19:38:18,171 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-07-14 19:38:18,172 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-07-14 19:38:18,172 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-07-14 19:38:18,173 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-07-14 19:38:18,173 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-07-14 19:38:18,192 INFO RPC interface 'supervisor' initialized
+2021-07-14 19:38:18,199 INFO supervisord started with pid 24
+2021-07-14 19:38:19,203 INFO spawned: 'apached' with pid 27
+2021-07-14 19:38:19,219 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-07-16 20:07:42,567 WARN received SIGTERM indicating exit request
+2021-07-16 20:07:42,620 INFO waiting for apached to die
+2021-07-16 20:07:42,721 INFO exited: apached (exit status 0; expected)
+2021-07-19 12:27:05,971 CRIT Supervisor running as root (no user in config file)
+2021-07-19 12:27:05,995 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-07-19 12:27:05,996 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-07-19 12:27:05,996 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-07-19 12:27:05,996 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-07-19 12:27:05,997 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-07-19 12:27:05,997 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-07-19 12:27:06,250 INFO RPC interface 'supervisor' initialized
+2021-07-19 12:27:06,256 INFO supervisord started with pid 25
+2021-07-19 12:27:07,284 INFO spawned: 'apached' with pid 28
+2021-07-19 12:27:07,334 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-07-20 11:17:43,601 CRIT Supervisor running as root (no user in config file)
+2021-07-20 11:17:43,797 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-07-20 11:17:43,797 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-07-20 11:17:43,797 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-07-20 11:17:43,798 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-07-20 11:17:43,798 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-07-20 11:17:43,798 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-07-20 11:17:44,898 INFO RPC interface 'supervisor' initialized
+2021-07-20 11:17:44,900 INFO supervisord started with pid 25
+2021-07-20 11:17:46,010 INFO spawned: 'apached' with pid 28
+2021-07-20 11:17:46,600 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-07-30 17:23:42,841 CRIT Supervisor running as root (no user in config file)
+2021-07-30 17:23:43,084 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-07-30 17:23:43,085 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-07-30 17:23:43,086 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-07-30 17:23:43,087 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-07-30 17:23:43,088 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-07-30 17:23:43,088 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-07-30 17:23:43,503 INFO RPC interface 'supervisor' initialized
+2021-07-30 17:23:43,506 INFO supervisord started with pid 22
+2021-07-30 17:23:44,542 INFO spawned: 'apached' with pid 25
+2021-07-30 17:23:44,575 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-07-31 14:00:09,621 CRIT Supervisor running as root (no user in config file)
+2021-07-31 14:00:09,667 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-07-31 14:00:09,668 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-07-31 14:00:09,668 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-07-31 14:00:09,668 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-07-31 14:00:09,668 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-07-31 14:00:09,669 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-07-31 14:00:10,607 INFO RPC interface 'supervisor' initialized
+2021-07-31 14:00:10,678 INFO supervisord started with pid 23
+2021-07-31 14:00:11,710 INFO spawned: 'apached' with pid 26
+2021-07-31 14:00:11,810 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-08-08 14:14:47,386 CRIT Supervisor running as root (no user in config file)
+2021-08-08 14:14:47,403 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-08-08 14:14:47,404 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-08-08 14:14:47,404 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-08-08 14:14:47,404 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-08-08 14:14:47,404 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-08-08 14:14:47,405 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-08-08 14:14:47,412 INFO RPC interface 'supervisor' initialized
+2021-08-08 14:14:47,432 INFO supervisord started with pid 24
+2021-08-08 14:14:48,437 INFO spawned: 'apached' with pid 27
+2021-08-08 14:14:48,465 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-08-09 11:00:14,657 CRIT Supervisor running as root (no user in config file)
+2021-08-09 11:00:14,659 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-08-09 11:00:14,660 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-08-09 11:00:14,661 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-08-09 11:00:14,662 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-08-09 11:00:14,663 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-08-09 11:00:14,664 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-08-09 11:00:15,008 INFO RPC interface 'supervisor' initialized
+2021-08-09 11:00:15,014 INFO supervisord started with pid 23
+2021-08-09 11:00:16,020 INFO spawned: 'apached' with pid 26
+2021-08-09 11:00:16,051 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-08-09 12:31:54,197 CRIT Supervisor running as root (no user in config file)
+2021-08-09 12:31:54,198 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-08-09 12:31:54,198 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-08-09 12:31:54,199 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-08-09 12:31:54,199 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-08-09 12:31:54,199 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-08-09 12:31:54,199 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-08-09 12:31:54,512 INFO RPC interface 'supervisor' initialized
+2021-08-09 12:31:54,515 INFO supervisord started with pid 21
+2021-08-09 12:31:55,524 INFO spawned: 'apached' with pid 24
+2021-08-09 12:31:55,542 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-08-09 14:25:58,363 CRIT Supervisor running as root (no user in config file)
+2021-08-09 14:25:58,364 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-08-09 14:25:58,365 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-08-09 14:25:58,365 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-08-09 14:25:58,365 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-08-09 14:25:58,365 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-08-09 14:25:58,366 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-08-09 14:25:58,846 INFO RPC interface 'supervisor' initialized
+2021-08-09 14:25:58,853 INFO supervisord started with pid 23
+2021-08-09 14:25:59,856 INFO spawned: 'apached' with pid 26
+2021-08-09 14:25:59,868 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-08-12 13:57:11,491 CRIT Supervisor running as root (no user in config file)
+2021-08-12 13:57:11,565 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-08-12 13:57:11,566 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-08-12 13:57:11,566 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-08-12 13:57:11,566 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-08-12 13:57:11,567 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-08-12 13:57:11,567 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-08-12 13:57:11,940 INFO RPC interface 'supervisor' initialized
+2021-08-12 13:57:11,943 INFO supervisord started with pid 22
+2021-08-12 13:57:12,945 INFO spawned: 'apached' with pid 25
+2021-08-12 13:57:12,952 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-08-13 22:51:01,353 CRIT Supervisor running as root (no user in config file)
+2021-08-13 22:51:01,372 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-08-13 22:51:01,372 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-08-13 22:51:01,373 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-08-13 22:51:01,373 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-08-13 22:51:01,374 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-08-13 22:51:01,374 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-08-13 22:51:01,716 INFO RPC interface 'supervisor' initialized
+2021-08-13 22:51:01,720 INFO supervisord started with pid 23
+2021-08-13 22:51:02,746 INFO spawned: 'apached' with pid 26
+2021-08-13 22:51:02,760 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-08-14 13:03:16,051 CRIT Supervisor running as root (no user in config file)
+2021-08-14 13:03:16,188 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-08-14 13:03:16,188 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-08-14 13:03:16,189 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-08-14 13:03:16,191 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-08-14 13:03:16,192 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-08-14 13:03:16,192 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-08-14 13:03:16,229 INFO RPC interface 'supervisor' initialized
+2021-08-14 13:03:16,241 INFO supervisord started with pid 24
+2021-08-14 13:03:17,246 INFO spawned: 'apached' with pid 27
+2021-08-14 13:03:17,272 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-08-17 13:31:16,461 CRIT Supervisor running as root (no user in config file)
+2021-08-17 13:31:17,066 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-08-17 13:31:17,066 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-08-17 13:31:17,067 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-08-17 13:31:17,067 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-08-17 13:31:17,067 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-08-17 13:31:17,068 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-08-17 13:31:17,964 INFO RPC interface 'supervisor' initialized
+2021-08-17 13:31:18,198 INFO supervisord started with pid 22
+2021-08-17 13:31:19,212 INFO spawned: 'apached' with pid 25
+2021-08-17 13:31:19,632 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-08-17 13:32:51,138 CRIT Supervisor running as root (no user in config file)
+2021-08-17 13:32:51,139 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-08-17 13:32:51,140 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-08-17 13:32:51,140 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-08-17 13:32:51,141 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-08-17 13:32:51,141 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-08-17 13:32:51,142 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-08-17 13:32:51,545 INFO RPC interface 'supervisor' initialized
+2021-08-17 13:32:51,549 INFO supervisord started with pid 22
+2021-08-17 13:32:52,590 INFO spawned: 'apached' with pid 25
+2021-08-17 13:32:52,599 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-08-18 18:28:50,347 CRIT Supervisor running as root (no user in config file)
+2021-08-18 18:28:50,402 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-08-18 18:28:50,403 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-08-18 18:28:50,403 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-08-18 18:28:50,404 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-08-18 18:28:50,404 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-08-18 18:28:50,404 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-08-18 18:28:50,745 INFO RPC interface 'supervisor' initialized
+2021-08-18 18:28:50,749 INFO supervisord started with pid 22
+2021-08-18 18:28:51,751 INFO spawned: 'apached' with pid 25
+2021-08-18 18:28:51,761 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-08-20 19:04:04,696 CRIT Supervisor running as root (no user in config file)
+2021-08-20 19:04:04,697 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-08-20 19:04:04,697 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-08-20 19:04:04,697 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-08-20 19:04:04,698 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-08-20 19:04:04,698 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-08-20 19:04:04,698 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-08-20 19:04:05,038 INFO RPC interface 'supervisor' initialized
+2021-08-20 19:04:05,042 INFO supervisord started with pid 22
+2021-08-20 19:04:06,152 INFO spawned: 'apached' with pid 25
+2021-08-20 19:04:06,214 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-08-25 13:38:28,121 CRIT Supervisor running as root (no user in config file)
+2021-08-25 13:38:28,122 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-08-25 13:38:28,122 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-08-25 13:38:28,122 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-08-25 13:38:28,123 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-08-25 13:38:28,123 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-08-25 13:38:28,123 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-08-25 13:38:28,453 INFO RPC interface 'supervisor' initialized
+2021-08-25 13:38:28,457 INFO supervisord started with pid 23
+2021-08-25 13:38:29,459 INFO spawned: 'apached' with pid 26
+2021-08-25 13:38:29,466 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-08-27 12:35:22,466 CRIT Supervisor running as root (no user in config file)
+2021-08-27 12:35:22,487 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-08-27 12:35:22,487 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-08-27 12:35:22,487 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-08-27 12:35:22,488 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-08-27 12:35:22,488 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-08-27 12:35:22,488 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-08-27 12:35:22,843 INFO RPC interface 'supervisor' initialized
+2021-08-27 12:35:22,873 INFO supervisord started with pid 23
+2021-08-27 12:35:23,876 INFO spawned: 'apached' with pid 26
+2021-08-27 12:35:23,884 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-08-27 16:13:29,009 CRIT Supervisor running as root (no user in config file)
+2021-08-27 16:13:29,153 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-08-27 16:13:29,153 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-08-27 16:13:29,153 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-08-27 16:13:29,154 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-08-27 16:13:29,154 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-08-27 16:13:29,154 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-08-27 16:13:29,163 INFO RPC interface 'supervisor' initialized
+2021-08-27 16:13:29,166 INFO supervisord started with pid 22
+2021-08-27 16:13:30,170 INFO spawned: 'apached' with pid 25
+2021-08-27 16:13:30,192 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-08-30 13:54:37,482 CRIT Supervisor running as root (no user in config file)
+2021-08-30 13:54:37,538 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-08-30 13:54:37,538 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-08-30 13:54:37,539 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-08-30 13:54:37,539 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-08-30 13:54:37,539 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-08-30 13:54:37,540 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-08-30 13:54:37,547 INFO RPC interface 'supervisor' initialized
+2021-08-30 13:54:37,551 INFO supervisord started with pid 23
+2021-08-30 13:54:38,555 INFO spawned: 'apached' with pid 26
+2021-08-30 13:54:38,581 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-09-03 12:39:36,982 CRIT Supervisor running as root (no user in config file)
+2021-09-03 12:39:37,108 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-09-03 12:39:37,188 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-09-03 12:39:37,189 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-09-03 12:39:37,189 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-09-03 12:39:37,262 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-09-03 12:39:37,263 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-09-03 12:39:38,035 INFO RPC interface 'supervisor' initialized
+2021-09-03 12:39:38,379 INFO supervisord started with pid 29
+2021-09-03 12:39:39,381 INFO spawned: 'apached' with pid 32
+2021-09-03 12:39:39,443 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-10-03 14:42:26,876 CRIT Supervisor running as root (no user in config file)
+2021-10-03 14:42:27,047 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-10-03 14:42:27,064 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-10-03 14:42:27,065 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-10-03 14:42:27,065 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-10-03 14:42:27,066 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-10-03 14:42:27,066 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-10-03 14:42:27,081 INFO RPC interface 'supervisor' initialized
+2021-10-03 14:42:27,084 INFO supervisord started with pid 24
+2021-10-03 14:42:28,089 INFO spawned: 'apached' with pid 27
+2021-10-03 14:42:28,117 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2021-12-01 13:25:11,115 CRIT Supervisor running as root (no user in config file)
+2021-12-01 13:25:11,130 INFO Included extra file "/opt/docker/etc/supervisor.d/apache.conf" during parsing
+2021-12-01 13:25:11,130 INFO Included extra file "/opt/docker/etc/supervisor.d/cron.conf" during parsing
+2021-12-01 13:25:11,130 INFO Included extra file "/opt/docker/etc/supervisor.d/dnsmasq.conf" during parsing
+2021-12-01 13:25:11,130 INFO Included extra file "/opt/docker/etc/supervisor.d/postfix.conf" during parsing
+2021-12-01 13:25:11,131 INFO Included extra file "/opt/docker/etc/supervisor.d/ssh.conf" during parsing
+2021-12-01 13:25:11,131 INFO Included extra file "/opt/docker/etc/supervisor.d/syslog.conf" during parsing
+2021-12-01 13:25:11,139 INFO RPC interface 'supervisor' initialized
+2021-12-01 13:25:11,142 INFO supervisord started with pid 23
+2021-12-01 13:25:12,144 INFO spawned: 'apached' with pid 26
+2021-12-01 13:25:12,151 INFO success: apached entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)

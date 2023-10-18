@@ -1,0 +1,11 @@
+[Mon Apr 12 19:57:19.850566 2021] [mpm_event:notice] [pid 26:tid 140229528464320] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Mon Apr 12 19:57:19.851093 2021] [core:notice] [pid 26:tid 140229528464320] AH00094: Command line: 'apache2 -D FOREGROUND -D APACHE_LOCK_DIR'
+[Wed Apr 14 21:30:38.424123 2021] [mpm_event:notice] [pid 28:tid 139723247037376] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Wed Apr 14 21:30:38.424808 2021] [core:notice] [pid 28:tid 139723247037376] AH00094: Command line: 'apache2 -D FOREGROUND -D APACHE_LOCK_DIR'
+[Mon Jun 07 03:45:04.277002 2021] [mpm_event:notice] [pid 28:tid 140320912378816] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Mon Jun 07 03:45:04.438769 2021] [core:notice] [pid 28:tid 140320912378816] AH00094: Command line: 'apache2 -D FOREGROUND -D APACHE_LOCK_DIR'
+[Thu Jun 10 00:41:03.441334 2021] [mpm_event:notice] [pid 26:tid 140568466127808] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Thu Jun 10 00:41:03.527107 2021] [core:notice] [pid 26:tid 140568466127808] AH00094: Command line: 'apache2 -D FOREGROUND -D APACHE_LOCK_DIR'
+[Thu Jun 24 20:36:50.877124 2021] [proxy_fcgi:error] [pid 29:tid 140567962969856] (70007)The timeout specified has expired: [client 172.19.0.1:35802] AH01075: Error dispatching request to : (polling)
+[Fri Jun 25 13:29:23.910308 2021] [mpm_event:notice] [pid 26:tid 140684634143680] AH00489: Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1 configured -- resuming normal operations
+[Fri Jun 25 13:29:23.910932 2021] [core:notice] [pid 26:tid 140684634143680] AH00094: Command line: 'apache2 -D FOREGROUND -D APACHE_LOCK_DIR'
